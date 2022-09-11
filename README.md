@@ -1,6 +1,6 @@
 # vMass Bot  :hook:  FREE Version 1.2 !
 <p align="center">
-<img src="https://raw.githubusercontent.com/c99tn/Randoms/master/n.png?token=GHSAT0AAAAAABVX6V7OVKN5YN5NXLEK7T6MYYHZ5VA" width="850">
+<img src="https://raw.githubusercontent.com/touchmycrazyredhat/Randoms/master/n.png?token=GHSAT0AAAAAABVX6V7OVKN5YN5NXLEK7T6MYYHZ5VA" width="850">
 </p>
 <p align="center">
 <a href="#requirements-wrench">Requirements</a> ◦ 
@@ -24,7 +24,7 @@ Extracted Tools, can be filtered and tested to only keep working ones (test smtp
 # Installation :package:
 1- Clone vMass Bot
 ```
-$ git clone https://github.com/c99tn/vMass.git
+$ git clone https://github.com/touchmycrazyredhat/vMass.git
 $ cd vMass
 ```
 2- Install required Perl Modules  
@@ -92,4 +92,5 @@ vMass Bot was created for educational purposes only, Any actions and or activiti
 <img src="https://raw.githubusercontent.com/c99tn/Randoms/master/telegram_button_icon_151837.png?token=GHSAT0AAAAAABVX6V7OOUCJTCCDNVAXPHCMYYIHTNA" width="200" height="50">
 </a>
 </p>
+
 
