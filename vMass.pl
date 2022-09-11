@@ -34,8 +34,8 @@ sub CMS_BANNER {
                   \_/\/    \/\__,_|___/___/ |_.__/ \___/ \__|
                                                  FREE VERSION
                                 Coded by Dpr
-                          https://github.com/c99tn
-                             https://t.me/dpr52
+                          https://github.com/touchmycrazyredhat
+                             https://t.me/
                              
                              
                           vMass Bot - Version v1.2
@@ -56,7 +56,8 @@ print color('reset');
                                                                      FREE VERSION  
 
                                        Coded by Dpr
-                                 https://github.com/c99tn
+                                       Modded by touchmycrazyredhat                                                      
+                                    https://github.com/touchmycrazyredhat 
                                     https://t.me/dpr52
 " );
     print color('reset');
